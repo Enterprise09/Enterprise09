@@ -1,6 +1,15 @@
-### Hi there 👋
+## TeaHoKim _ Enterprise 
+### Student _ Computer Enginnering 
+> > Study at University
+* Spring
+* Java        
+* Android
+* .Net
+* Node.js
+
 
 <!--
+### Hi there 👋
 **Enterprise09/Enterprise09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

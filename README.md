@@ -1,12 +1,15 @@
 ## TeaHoKim _ Enterprise 
 ### Student _ Computer Enginnering 
-> > Study at University
-* Spring
+> Study at University
 * Java        
 * Android
-* .Net
-* Node.js
+* .Net / Spring FrameWork
+* Python
+---
 
+> Study Self
+* Android _ Java
+* Node.js / React.js
 
 <!--
 ### Hi there 👋

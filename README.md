@@ -11,7 +11,8 @@
 * Android _ Java
 * Node.js / React.js
 * Flutter / Dart
-* Ruby
+* Ruby / Jekyll
+* React Native
 
 <!--
 ### Hi there 👋

@@ -9,7 +9,7 @@
 
 > Study Self
 * Android _ Java
-* Node.js / React.js
+* React.js / React-Hooks
 * Flutter / Dart
 * Ruby / Jekyll
 * React Native

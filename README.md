@@ -11,7 +11,6 @@
 * Android _ Java
 * React.js / React-Hooks
 * Flutter / Dart
-* Ruby / Jekyll
 * React Native
 
 <!--

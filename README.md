@@ -1,8 +1,8 @@
 <p>
-<a href="https://enterprise09.github.io/">
+<a href="https://enterprise09.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/-TechLog-black?logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/k_teaho0909/">
+<a href="https://www.instagram.com/k_teaho0909/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" />
 </a>
 </p>

@@ -8,7 +8,7 @@
 </p>
 
 ### Hi there 👋<br />
-### I'm a student at 3rd year of software engineering. <br />
+### I'm in my 3rd year of software engineering. <br />
 
 > mainly developing mobile apps, but also enjoy developing web site <br />
 > currently working on my graduation work call by 'End-Line' in Java.<br />

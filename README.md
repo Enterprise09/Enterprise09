@@ -15,6 +15,8 @@
 
 ---
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enterprise09&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Mobile skills
 
 <p>
@@ -50,20 +52,20 @@
 <img src="https://img.shields.io/badge/-React.js-2A2C2E?logo=React&logoColor=61DAFB" />
 </p>
 
-### Web Back-end skills
+### To study
 
 <p>
 <img src="https://img.shields.io/badge/-Spring-6DB43D?logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/-.NET-67217A?logo=.NET&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-.NET-67217A?logo=.NET&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/-Node.js-83CD29?logo=Node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white" /> -->
 </p>
 
-### Game skills
+<!-- ### Game skills
 
 <p>
 <img src="https://img.shields.io/badge/-Unity-black?logo=Unity&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
@@ -78,7 +80,7 @@
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=EclipseIDE&logoColor=white" />
 </p>
 
-### Design
+<!-- ### Design
 
 <p>
 <img src="https://img.shields.io/badge/-Protools-6A2399?logo=Protools&logoColor=white" />
@@ -86,7 +88,7 @@
 <img src="https://img.shields.io/badge/-Pr-9A99FF?logo=Adobe Premiere Pro&logoColor=00005A" />
 <img src="https://img.shields.io/badge/-LrC-31A8FF?logo=Adobe Lightroom Classic&logoColor=001D34" />
 <img src="https://img.shields.io/badge/-Ae-9A99FF?logo=Adobe After Effects&logoColor=00005A" />
-</p>
+</p> -->
 
 ### OS
 
@@ -95,6 +97,13 @@
 <img src="https://img.shields.io/badge/-Windows10-00A9E8?logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali Linux-2C86CD?logo=Kali Linux&logoColor=white" />
 </p>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Enterprise09&show_icons=true&hide=prs,contribs">
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enterprise09&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 ### Hi there 👋

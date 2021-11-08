@@ -75,8 +75,8 @@
 <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=VisualStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=AndroidStudio&logoColor=white" />
-<img src="https://img.shields.io/badge/-VMWare-2F3035?logo=VMWare&logoColor=FEC810" />
-<img src="https://img.shields.io/badge/-CodeSandbox-black?logo=CodeSandbox&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-VMWare-2F3035?logo=VMWare&logoColor=FEC810" />
+<img src="https://img.shields.io/badge/-CodeSandbox-black?logo=CodeSandbox&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=EclipseIDE&logoColor=white" />
 </p>
 
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/-Pr-9A99FF?logo=Adobe Premiere Pro&logoColor=00005A" />
 <img src="https://img.shields.io/badge/-LrC-31A8FF?logo=Adobe Lightroom Classic&logoColor=001D34" />
 <img src="https://img.shields.io/badge/-Ae-9A99FF?logo=Adobe After Effects&logoColor=00005A" />
-</p> -->
+</p> 
 
 ### OS
 
@@ -97,7 +97,7 @@
 <img src="https://img.shields.io/badge/-Windows10-00A9E8?logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali Linux-2C86CD?logo=Kali Linux&logoColor=white" />
 </p>
-
+-->
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Enterprise09&show_icons=true&hide=prs,contribs">

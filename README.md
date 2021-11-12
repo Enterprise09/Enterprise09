@@ -67,8 +67,6 @@
 <img src="https://img.shields.io/badge/-Unity-black?logo=Unity&logoColor=white" />
 </p> -->
 
----
-
 ### Tools
 
 <p>
@@ -88,7 +86,7 @@
 <img src="https://img.shields.io/badge/-Pr-9A99FF?logo=Adobe Premiere Pro&logoColor=00005A" />
 <img src="https://img.shields.io/badge/-LrC-31A8FF?logo=Adobe Lightroom Classic&logoColor=001D34" />
 <img src="https://img.shields.io/badge/-Ae-9A99FF?logo=Adobe After Effects&logoColor=00005A" />
-</p> 
+</p>
 
 ### OS
 
@@ -98,12 +96,12 @@
 <img src="https://img.shields.io/badge/-Kali Linux-2C86CD?logo=Kali Linux&logoColor=white" />
 </p>
 -->
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Enterprise09&show_icons=true&hide=prs,contribs">
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enterprise09&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!--
 ### Hi there 👋

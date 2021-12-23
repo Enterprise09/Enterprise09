@@ -13,7 +13,7 @@
 ## I'm TaeHo Kim <br />
 
 > mainly developing mobile apps, but also enjoy developing web site <br />
-> currently working on my graduation work call by 'End-Line' in Java.<br />
+> currently working on CLC project in Java.<br />
 
 ---
 

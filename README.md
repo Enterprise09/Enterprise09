@@ -13,7 +13,7 @@
 ## I'm TaeHo Kim <br />
 
 > mainly developing mobile apps, but also enjoy developing web site <br />
-> currently working on CLC - Cinema Lover Community project in Java.<br />
+> currently working on Zoom clone by use Node.js with Express, Socket.io and WebRTC.<br />
 
 ---
 

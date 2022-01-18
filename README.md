@@ -13,7 +13,7 @@
 ## I'm TaeHo Kim <br />
 
 > mainly developing mobile apps, but also enjoy developing web site <br />
-> currently working on Zoom clone by use Node.js with Express, Socket.io and WebRTC.<br />
+> fit in quickly to new enviroments and change
 
 ---
 
@@ -71,6 +71,13 @@
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=Typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React.js-2A2C2E?logo=React&logoColor=61DAFB" />
 
+### Back-end
+
+<p>
+<img src="https://img.shields.io/badge/-Node.js-83CD29?logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring-6DB43D?logo=Spring&logoColor=white" />
+</p>
+
 ### Devops
 
 <p>
@@ -96,10 +103,9 @@
 ### To study
 
 <p>
-<img src="https://img.shields.io/badge/-Spring-6DB43D?logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/-.NET-67217A?logo=.NET&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-83CD29?logo=Node.js&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white" />
 </p>
 
 <!-- ### Game

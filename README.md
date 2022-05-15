@@ -13,7 +13,8 @@
 ## I'm TaeHo Kim <br />
 
 > mainly developing mobile apps, but also enjoy developing web site <br />
-> fit in quickly to new enviroments and change
+> fit in quickly to new enviroments and change <br />
+> Korea Army : 2022.05.16 ~ 2023.11
 
 ---
 
